@@ -1,0 +1,2 @@
+cat README
+pwd
